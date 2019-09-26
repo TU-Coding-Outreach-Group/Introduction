@@ -1,22 +1,44 @@
-## Welcome to the Temple University Coding Outreach Group (COG)
+# Welcome to the Temple University Coding Outreach Group (COG)
 
 This group is a resource for people in various fields, and at various training levels, who wish to strengthen their coding skills.
 
-COG "Office Hours" will be held on Thursdays from 3:30-5:30PM. Office hours are meant to serve as an open environment where people can come to work on personal coding and computational projects and get help from other attendees (as opposed to traditional office hours). If you are interested, please join the COG Google Group (link here)[https://groups.google.com/forum/#!forum/coding-outreach-group/join]
+COG "Office Hours" will be held on Thursdays from 3:30-5:30PM. Office hours are meant to serve as an open environment where people can come to work on personal coding and computational projects and get help from other attendees (as opposed to traditional office hours). If you are interested, please join the COG Google Group [link here](https://groups.google.com/forum/#!forum/coding-outreach-group/join)
 
-### Markdown
+## Learn to Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are some online tutorials that you can use to teach yourself coding in various languages
 
-```markdown
-Syntax highlighted code block
+### Basic Python from Codeacademy
+An introduction to python for beginners
+No coding knowledge required
+Gives you a basic coding foundation from if-statements and for-loops, to more advanced python scripting
+I would recommend that you complete the whole course, but do not stress memorizing everything
+Get a general idea of how coding works and what you can do
+Then you can go back and google solutions to your problems
+#### Other Resources
+https://www.datacamp.com/onboarding
+https://git-scm.com/book/en/v2
 
-# Header 1
-## Header 2
-### Header 3
+#### Useful Packages
+Pandas - for basic data management and data analysis
+Never use excel again! Instead you'll learn to use dataframes (like a spreadsheet for python) to store, manipulate,
+and analyze your data
+Data Analyst Skills
+Titanic Tutorial
+Learn pandas with a tutorial and real dataset
+Other tutorials
+Merging dataframes
+Seaborn
+Used for visualization
+Fixing figure parameters
+Psychopy
+Documentation
 
-- Bulleted
-- List
+#### Downloading and Using Python (with IDEs)
+Anaconda
+[Anaconda](https://docs.anaconda.com/anaconda/) is a more scientific-geared integrated development environment (IDE)
+Comes pre-installed with pandas, numpy, and some other packages that are useful for data analysis 
+Currently most popular
 
 1. Numbered
 2. List
