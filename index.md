@@ -8,16 +8,18 @@ COG "Office Hours" will be held on Thursdays from 3:30-5:30PM. Office hours are 
 
 Below are some online tutorials that you can use to teach yourself coding in various languages
 
-### Basic Python from Codeacademy
-An introduction to python for beginners
-No coding knowledge required
-Gives you a basic coding foundation from if-statements and for-loops, to more advanced python scripting
-I would recommend that you complete the whole course, but do not stress memorizing everything
-Get a general idea of how coding works and what you can do
-Then you can go back and google solutions to your problems
+### Python
+- [Codeacademy Tutorial](https://www.codecademy.com/learn/learn-python)
+    - An introduction to python for beginners
+    - No coding knowledge required
+    - Gives you a basic coding foundation from if-statements and for-loops, to more advanced python scripting
+    - I would recommend that you complete the whole course, but do not stress memorizing everything
+    - Get a general idea of how coding works and what you can do, then you can go back and google solutions to your problems
+    
 #### Other Resources
 https://www.datacamp.com/onboarding
 https://git-scm.com/book/en/v2
+https://www.software-carpentry.org/
 
 #### Useful Packages
 - Pandas - for basic data management and data analysis
@@ -26,16 +28,14 @@ and analyze your data
 - [Data Analyst Skills](https://www.dataquest.io/path/data-analyst)
 - [Titanic Tutorial](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
   - Learn pandas with a tutorial and real dataset
-- [Other tutorials](https://www.kaggle.com/c/titanic#tutorials)
-  - [Merging dataframes in python](https://pandas.pydata.org/pandas-docs/stable/merging.html)
-  - Seaborn
-    - Used for visualization
-    - [Fixing figure parameters](http://alanpryorjr.com/visualizations/seaborn/barplot/barplot/)
-  - [Psychopy](http://www.psychopy.org/documentation.html)
+- [Psychopy](http://www.psychopy.org/documentation.html)
 
 #### Downloading and Using Python (with IDEs)
-Anaconda
-[Anaconda](https://docs.anaconda.com/anaconda/) is a more scientific-geared integrated development environment (IDE)
-Comes pre-installed with pandas, numpy, and some other packages that are useful for data analysis 
-Currently most popular
+- Anaconda
+    - [Anaconda](https://docs.anaconda.com/anaconda/) is a more scientific-geared integrated development environment (IDE)
+    - Comes pre-installed with pandas, numpy, and some other packages that are useful for data analysis 
+
+
+### Github
+https://elizabeth-dupre.com/git-course/
 
