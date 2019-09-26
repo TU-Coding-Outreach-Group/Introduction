@@ -25,13 +25,13 @@ Never use excel again! Instead you'll learn to use dataframes (like a spreadshee
 and analyze your data
 - [Data Analyst Skills](https://www.dataquest.io/path/data-analyst)
 - [Titanic Tutorial](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
-Learn pandas with a tutorial and real dataset
+  - Learn pandas with a tutorial and real dataset
 - [Other tutorials](https://www.kaggle.com/c/titanic#tutorials)
   - [Merging dataframes in python](https://pandas.pydata.org/pandas-docs/stable/merging.html)
   - Seaborn
-    Used for visualization
-    [Fixing figure parameters](http://alanpryorjr.com/visualizations/seaborn/barplot/barplot/)
-- [Psychopy](http://www.psychopy.org/documentation.html)
+    - Used for visualization
+    - [Fixing figure parameters](http://alanpryorjr.com/visualizations/seaborn/barplot/barplot/)
+  - [Psychopy](http://www.psychopy.org/documentation.html)
 
 #### Downloading and Using Python (with IDEs)
 Anaconda
