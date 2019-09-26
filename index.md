@@ -20,19 +20,18 @@ https://www.datacamp.com/onboarding
 https://git-scm.com/book/en/v2
 
 #### Useful Packages
-Pandas - for basic data management and data analysis
+- Pandas - for basic data management and data analysis
 Never use excel again! Instead you'll learn to use dataframes (like a spreadsheet for python) to store, manipulate,
 and analyze your data
-Data Analyst Skills
-Titanic Tutorial
+- [Data Analyst Skills](https://www.dataquest.io/path/data-analyst)
+- [Titanic Tutorial](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
 Learn pandas with a tutorial and real dataset
-Other tutorials
-Merging dataframes
-Seaborn
-Used for visualization
-Fixing figure parameters
-Psychopy
-Documentation
+- [Other tutorials](https://www.kaggle.com/c/titanic#tutorials)
+  - [Merging dataframes in python](https://pandas.pydata.org/pandas-docs/stable/merging.html)
+  - Seaborn
+    Used for visualization
+    [Fixing figure parameters](http://alanpryorjr.com/visualizations/seaborn/barplot/barplot/)
+- [Psychopy](http://www.psychopy.org/documentation.html)
 
 #### Downloading and Using Python (with IDEs)
 Anaconda
@@ -40,20 +39,3 @@ Anaconda
 Comes pre-installed with pandas, numpy, and some other packages that are useful for data analysis 
 Currently most popular
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Temple-Coding-Oureach-Group/tu-cog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
