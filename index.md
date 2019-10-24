@@ -32,18 +32,18 @@ and analyze your data
     - Comes pre-installed with pandas, numpy, and some other packages that are useful for data analysis 
 
 ### R
-- https://r4ds.had.co.nz/
+- [R for Data Scientists](https://r4ds.had.co.nz/)
 
 
 ### Bash - Command line
-- http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
+- [Bash for Beginners Guide](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 
 
 ### Github
 - [Git Book](https://git-scm.com/book/en/v2)
-https://elizabeth-dupre.com/git-course/
+- [Elizabeth Dupre Git Course](https://elizabeth-dupre.com/git-course/)
 
 
 ### Other Resources
 - [DataCamp](https://www.datacamp.com/onboarding)
-- https://www.software-carpentry.org/
+- [Software Carpentry](https://www.software-carpentry.org/)
