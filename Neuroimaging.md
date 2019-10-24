@@ -24,7 +24,7 @@ This page includes links to tutorials and various workshops about neuroimaging a
 
 # Neuroimaging Methods
 
-## [Principles of fMRI](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA)
+### [Principles of fMRI](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA)
 
-## [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA)
+### [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA)
 
