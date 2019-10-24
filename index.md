@@ -30,6 +30,13 @@ and analyze your data
     - [Anaconda](https://docs.anaconda.com/anaconda/) is a more scientific-geared integrated development environment (IDE)
     - Comes pre-installed with pandas, numpy, and some other packages that are useful for data analysis 
 
+### R
+- https://r4ds.had.co.nz/
+
+
+### Bash - Command line
+- http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
+
 
 ### Github
 - [Git Book](https://git-scm.com/book/en/v2)
