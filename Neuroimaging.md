@@ -23,7 +23,7 @@ This page includes links to tutorials and various workshops about neuroimaging a
 - [AFNI Bootcamp](https://afni.nimh.nih.gov/bootcamp)
 
 
-# DSI Studio
+## DSI Studio
 - [Workshop and Documentation](http://dsi-studio.labsolver.org/Manual)
 
 
