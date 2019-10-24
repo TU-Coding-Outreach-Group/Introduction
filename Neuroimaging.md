@@ -15,11 +15,16 @@ This page includes links to tutorials and various workshops about neuroimaging a
 ## SPM
 - [Documentation](https://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf)
 - [SPM Course and Materials](https://www.fil.ion.ucl.ac.uk/spm/course/)
+- [University of Michigan Training Course in fMRI](https://fmri-training-course.psych.lsa.umich.edu/2019-lecture-slides/)
 
 
 ## AFNI
 - [Documentation](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
 - [AFNI Bootcamp](https://afni.nimh.nih.gov/bootcamp)
+
+
+# DSI Studio
+- [Workshop and Documentation](http://dsi-studio.labsolver.org/Manual)
 
 
 # Neuroimaging Methods
