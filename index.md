@@ -25,9 +25,9 @@ https://www.software-carpentry.org/
 - Pandas - for basic data management and data analysis
 Never use excel again! Instead you'll learn to use dataframes (like a spreadsheet for python) to store, manipulate,
 and analyze your data
-- [Data Analyst Skills](https://www.dataquest.io/path/data-analyst)
-- [Titanic Tutorial](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
-  - Learn pandas with a tutorial and real dataset
+    - [Data Analyst Skills](https://www.dataquest.io/path/data-analyst)
+    - [Titanic Tutorial](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
+        - Learn pandas with a tutorial and real dataset
 - [Psychopy](http://www.psychopy.org/documentation.html)
 
 #### Downloading and Using Python (with IDEs)
