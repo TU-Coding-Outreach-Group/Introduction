@@ -24,6 +24,7 @@ and analyze your data
     - [Titanic Tutorial](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
         - Learn pandas with a tutorial and real dataset
 - [Psychopy](http://www.psychopy.org/documentation.html)
+- [Misc commands](https://nbviewer.jupyter.org/github/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb)
 
 #### Downloading and Using Python (with IDEs)
 - Anaconda
