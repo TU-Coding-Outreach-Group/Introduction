@@ -33,3 +33,28 @@ This page includes links to tutorials and various workshops about neuroimaging a
 
 ### [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA)
 
+
+# Neuroimaging Tools
+
+## Brain Imaging Directory Structure (BIDS)
+ - a simple and easy to adopt way of organizing neuroimaging and behavioral data
+ - [Documentation](https://bids.neuroimaging.io/)
+ - [Overview](https://osf.io/dcbfj/) - What BIDS is and is not
+ - [Walkthrough with heudiconv](http://reproducibility.stanford.edu/bids-tutorial-series-part-2a/)
+ 
+## fmriprep
+ - a functional magnetic resonance imaging (fMRI) data preprocessing pipeline that is designed to provide an easily accessible, state-of-the-art interface that is robust to variations in scan acquisition protocols and that requires minimal user input, while providing easily interpretable and comprehensive error and output reporting
+ - [Overview](https://github.com/poldracklab/fmriprep)
+ - [Walkthrough](https://fmriprep.readthedocs.io/en/stable/usage.html)
+
+## MRIQC
+ - Automatic prediction of quality and visual reporting of MRI scans
+ - [Documentation](https://mriqc.readthedocs.io/en/stable/)
+
+## MRIQCeption
+ - Quantitatively compare the quality of your MRI scans to large datasets
+ - [Documentation](https://github.com/elizabethbeard/mriqception/)
+ 
+## NLTools
+ - Python toolbox for analyzing neuroimaging data
+ - [Documentation](https://github.com/cosanlab/nltools)
