@@ -33,6 +33,8 @@ and analyze your data
 
 ### R
 - [R for Data Scientists](https://r4ds.had.co.nz/)
+- [Cheatsheets for R](https://rstudio.com/resources/cheatsheets/)
+    - Easy ways to use popular R packages
 
 
 ### Bash - Command line
