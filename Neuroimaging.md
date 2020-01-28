@@ -58,6 +58,10 @@ This page includes links to tutorials and various workshops about neuroimaging a
 ## MRIQCeption
  - Quantitatively compare the quality of your MRI scans to large datasets
  - [Documentation](https://github.com/elizabethbeard/mriqception/)
+
+## Nipype
+ - Python toolbox for preprocessing and analyzing neuroimaging data
+ - [Documentation and tutorials](https://miykael.github.io/nipype_tutorial/)
  
 ## NLTools
  - Python toolbox for analyzing neuroimaging data
