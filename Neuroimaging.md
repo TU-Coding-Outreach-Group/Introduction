@@ -61,6 +61,7 @@ This page includes links to tutorials and various workshops about neuroimaging a
 
 ## Nipype
  - Python toolbox for preprocessing and analyzing neuroimaging data
+ - Python wrapper for FreeSurfer, FSL, and SPM functions
  - [Documentation and tutorials](https://miykael.github.io/nipype_tutorial/)
  
 ## NLTools
