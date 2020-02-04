@@ -40,6 +40,7 @@ and analyze your data
 ### Bash - Command line
 - [Bash for Beginners Guide](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 - [Command line tutorial](https://linuxjourney.com/lesson/the-shell)
+- [The missing semester of your CS education - from MIT](https://missing.csail.mit.edu/)
 
 
 ### Github
