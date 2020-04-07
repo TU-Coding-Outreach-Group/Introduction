@@ -73,3 +73,9 @@ This page includes links to tutorials and various workshops about neuroimaging a
 
 ## [Dartbrains](https://dartbrains.org/intro)
  - Tutorials on preprocessing, GLM analysis, MVPA, RSA, etc. all in python
+
+
+# Misc Techniques
+
+## Representational Similarity Analysis
+ - [Brain imaging analysis kit](https://brainiak.org/tutorials/06-rsa/)
