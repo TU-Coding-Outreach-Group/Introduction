@@ -51,3 +51,4 @@ and analyze your data
 ### Other Resources
 - [DataCamp](https://www.datacamp.com/onboarding)
 - [Software Carpentry](https://www.software-carpentry.org/)
+- [COG Neuroimaging Tutorials](https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/Neuroimaging.md)
