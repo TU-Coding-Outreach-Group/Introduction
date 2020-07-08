@@ -68,6 +68,8 @@ This page includes links to tutorials and various workshops about neuroimaging a
  - Python toolbox for analyzing neuroimaging data
  - [Documentation](https://github.com/cosanlab/nltools)
  
+## Comprehensive Neuroimaging Tutorials and Resources
+ - [A more comprehensive list than this one](https://learn-neuroimaging.github.io/tutorials-and-resources/analysis_software_MRI/)
 
 # Misc Workshops
 
