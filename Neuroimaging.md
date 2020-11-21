@@ -26,6 +26,10 @@ This page includes links to tutorials and various workshops about neuroimaging a
 ## DSI Studio
 - [Workshop and Documentation](http://dsi-studio.labsolver.org/Manual)
 
+## Collective Resources
+- [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/index.html)
+ - Great resource for step-by-step instructions on MRI analysis in AFNI, SPM, FSL, and more
+
 
 # Neuroimaging Methods
 
