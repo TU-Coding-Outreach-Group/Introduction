@@ -71,6 +71,11 @@ This page includes links to tutorials and various workshops about neuroimaging a
 ## NLTools
  - Python toolbox for analyzing neuroimaging data
  - [Documentation](https://github.com/cosanlab/nltools)
+
+# PyMVPA
+ - Python toolbox specifically for multivariate pattern analyses (MVPA), including classification and representational similarity analysis
+ - [Documentation](http://www.pymvpa.org/docoverview.html)
+ - [Tutorials](http://www.pymvpa.org/tutorial.html)
  
 ## Comprehensive Neuroimaging Tutorials and Resources
  - [A more comprehensive list than this one](https://learn-neuroimaging.github.io/tutorials-and-resources/analysis_software_MRI/)
@@ -86,3 +91,5 @@ This page includes links to tutorials and various workshops about neuroimaging a
 ## Representational Similarity Analysis
  - [Brain imaging analysis kit](https://brainiak.org/tutorials/06-rsa/)
  - [NeuroRA](https://neurora.github.io/NeuroRA/)
+ - [PyMVPA](http://www.pymvpa.org/examples/rsa_fmri.html)
+   - Includes searchlight analysis
