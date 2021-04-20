@@ -93,3 +93,6 @@ This page includes links to tutorials and various workshops about neuroimaging a
  - [NeuroRA](https://neurora.github.io/NeuroRA/)
  - [PyMVPA](http://www.pymvpa.org/examples/rsa_fmri.html)
    - Includes searchlight analysis
+### Workshops
+ - [Mark Thornton's RSA workshop](https://colab.research.google.com/drive/1UEtFr-oJisRzl8BmzbNdMZZ7-Of0gLcH?usp=sharing) for Society for Social Neuroscience 2021
+   - [MIND 2018 RSA workshop](https://github.com/markallenthornton/mind_2018/tree/master/tutorials/representational_similarity) in R
