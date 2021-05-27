@@ -22,6 +22,7 @@ Below are some online tutorials that you can use to teach yourself coding in var
     - Gives you a basic coding foundation from if-statements and for-loops, to more advanced python scripting
     - I would recommend that you complete the whole course, but do not stress memorizing everything
     - Get a general idea of how coding works and what you can do, then you can go back and google solutions to your problems   
+- https://www.learnpython.org/
 
 ### Useful Packages
 - Pandas - for basic data management and data analysis
