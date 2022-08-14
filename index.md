@@ -43,6 +43,8 @@ and analyze your data
 - [R for Data Scientists](https://r4ds.had.co.nz/)
 - [Cheatsheets for R](https://rstudio.com/resources/cheatsheets/)
     - Easy ways to use popular R packages
+- [Learning R the EZ way](https://sites.google.com/umd.edu/ezlearning-r/home)
+    - Resource from the University of Maryland
 
 
 ## Bash - Command line
